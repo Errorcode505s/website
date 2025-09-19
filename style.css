@@ -1,9 +1,19 @@
 img {
-    width: 200px;
+    width: 400px;
 }
 body {
     text-align: center;
-    font-family: 'Arial';
+    font-family: "Georgia";
     background: azure;
-    color: purple;
+    color: mediumslateblue;
+}
+header {
+    background-color: lightgreen;
+    margin: 50px;
+}
+div2 {
+    color: black;
+}
+div3 {
+    color:#77DD77;
 }
